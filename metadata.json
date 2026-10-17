@@ -1,0 +1,6 @@
+{
+  "name": "TranspoWorld: Kindergarten Transportation Lab",
+  "description": "Fun, engaging interactive transportation classification web app for kindergarten students to sort Land, Water, and Air vehicles, listen to mystery engine sounds, and explore community helpers with teacher guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
